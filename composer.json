@@ -1,0 +1,17 @@
+{
+	"name": "cftp/acf-oembed-field",
+	"description": "An oEmbed field type for Advanced Custom Fields",
+	"homepage"   : "https://github.com/cftp/acf-oembed-field",
+	"type"       : "wordpress-plugin",
+	"license"    : "GPL-2.0+",
+		"authors"    : [
+			{
+				"name"    : "Code For The People",
+				"homepage": "http://codeforthepeople.com/"
+			}
+	],
+	"require": {
+		"composer/installers" : "~1.0",
+	},
+	"minimum-stability": "dev",
+}
